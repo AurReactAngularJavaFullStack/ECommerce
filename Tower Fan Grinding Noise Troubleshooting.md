@@ -54,7 +54,8 @@ Cela indique **un frottement mécanique du rotor sur un élément interne**, sou
 
 ### 🧠 Si le bruit persiste
 
-- Le **moteur à vitesse réduite** n’a peut-être plus assez de puissance pour faire tourner le rotor sans frottement. Cela peut indiquer :
+- Le **moteur à vitesse réduite** n’a peut-être plus assez de puissance pour faire tourner le rotor sans frottement. 
+- Cela peut indiquer :
   - **Roulements secs ou usés** → nécessitent un démontage plus poussé ;
   - **Rotor mal aligné** → support plastique déformé ou axe légèrement tordu ;
   - **Défaut d’équilibrage du rotor** → difficile à corriger manuellement.
