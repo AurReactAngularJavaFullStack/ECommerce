@@ -1,4 +1,137 @@
 ```
+regarde tu as oublié Immotion Air Pro qui va plus loin ? non ? 
+```
+
+**Rappel** : ces portées réelles restent indicatives ; température, dénivelé, poids du pilote et pression des pneus peuvent encore réduire l’autonomie effective. Si tu vises vraiment 40 km quotidiens sans recharge, concentre‑toi sur les deux premiers modèles (Joyor F5S+ ou Inmotion Air Pro).
+
+Voici le **nouveau classement** (vitesse constante : **25 km/h**, modèles ≤ 390 €) trié du **plus grand rayon d’action constructeur** au plus court, avec l’estimation d’autonomie « réelle » (environ –20 %) :
+
+- **Joyor F5S+** – 50 km annoncés → **≈ 40 km réels**
+- **Inmotion Air Pro** – 48 km annoncés → **≈ 38 km réels**
+- **iScooter i9 Max** – 40 km annoncés → **≈ 32 km réels**
+- **iScooter W8** – 35‑40 km annoncés → **≈ 30‑32 km réels**
+- **Xiaomi Electric Scooter 4** – 35 km annoncés → **≈ 28 km réels**
+- **AOVO Pro M365 Pro** – 30‑35 km annoncés → **≈ 24‑28 km réels**
+- **Xiaomi Mi Scooter 3** – 30 km annoncés → **≈ 24 km réels**
+- **KuKirin S1 Pro** – 30 km annoncés → **≈ 24 km réels**
+- **Ninebot KickScooter D28E** – 28 km annoncés → **≈ 22 km réels**
+- **Xiaomi Electric Scooter 3 Lite** – 20 km annoncés → **≈ 16 km réels**
+
+```
+Donne moi les meilleurs trotinette électrique avec la plus longue endurance au niveau de la batterie avec lequel on peut parcourir le plus de distance à 25 km/h par heure voir plus jusqu'à 50 km voir plus et le escooter pas plus de 390€
+```
+
+Pour parcourir **la plus grande distance possible tout en restant sous les 390 €**, voici les modèles qui se distinguent aujourd’hui. Le carrousel ci-dessous vous permet de comparer d’un coup d’œil les 8 références les plus intéressantes dans cette gamme de prix :
+
+### [Joyor F5S+](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### Jusqu’à 50 km
+
+*349.0 €*
+
+### [Xiaomi Scooter 4](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 35 km polyvalent
+
+*349.99 €*
+
+### [iScooter i9 Max](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 40 km pratique
+
+*269.99 €*
+
+### [iScooter W8](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 40 km confort
+
+*334.99 €*
+
+### [AOVO Pro M365 Pro](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 35 km économique
+
+*199.0 €*
+
+### [KuKirin S1 Pro](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 30 km urbain
+
+*195.0 €*
+
+### [Xiaomi Mi Scooter 3](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 30 km fiable
+
+*339.99 €*
+
+### [Ninebot KickScooter D28E](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### 28 km robuste
+
+*240.0 €*
+
+### Ce qu’il faut retenir
+
+| Segment                   | Modèle phare                       | Points clés                      | Autonomie annoncée*                                          |
+| ------------------------- | ---------------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| **Endurance maxi**        | **Joyor F5S+**                     | Batterie 13 Ah + châssis amorti  | Jusqu’à 50 km ([Joyor Electric Scooter](https://joyorscooter.com/products/joyor-f5s-electric-scooter?srsltid=AfmBOor0Y1K5MmkRY9O2PSFikZjS5lw-EABD3zzY0H0r76fO_UJaoDBZ&utm_source=chatgpt.com)) |
+| **Équilibre portée/prix** | Xiaomi Scooter 4 & iScooter i9 Max | 35-40 km pour ~350 €             | 35 km ([Xiaomi UK](https://www.mi.com/global/product/xiaomi-electric-scooter-4/?utm_source=chatgpt.com)) / 40 km ([iScooter](https://www.iscooterglobal.com/products/iscooter®-2022-outstanding-i9max-electric-scooter-for-adults-500w-21-7miles-with-front-and-rear-double-shock-absorption?utm_source=chatgpt.com)) |
+| **Confort long trajet**   | iScooter W8                        | Pneus 9,3" + suspension double   | 35-40 km ([iScooter](https://www.iscooterglobal.com/products/iscooter-w8-off-road-tires-electric-scoote?utm_source=chatgpt.com)) |
+| **Budget urbain**         | AOVO Pro M365 Pro & KuKirin S1 Pro | 30-35 km, tarif ≤ 260 €          | 30-35 km ([Aovopro](https://www.aovopro.com/?srsltid=AfmBOooW7SUvxq9AOlpoA6pagMYbTbG3OicwAt_PgFaFqKPFDRbDXctD&utm_source=chatgpt.com)) / 30 km ([geekbuying.com](https://www.geekbuying.com/item/Kukirin-S1-PRO-8-inch-350W-Motor-Folding-Electric-Scooter-Black-471646.html?utm_source=chatgpt.com)) |
+| **Fiabilité éprouvée**    | Xiaomi Mi Scooter 3 & Ninebot D28E | Large réseau SAV, pièces faciles | 30 km ([Xiaomi UK](https://www.mi.com/global/product/mi-electric-scooter-3/?utm_source=chatgpt.com)) / 28 km ([Other countries - English](https://eu-en.segway.com/products/ninebot-kickscooter-d-series?utm_source=chatgpt.com)) |
+
+*Autonomie mesurée à **25 km/h en mode éco** (constructeur). Comptez environ **-20 % en usage réel** (température, pente, poids).
+
+------
+
+#### Pourquoi le Joyor F5S+ sort du lot ?
+
+- **Batterie 48 V / 13 Ah** : la plus grosse dans cette tranche de prix.
+- **Moteur 500 W (650 W crête)** : conserve 25 km/h même en légère côte.
+- **Poids contenu (≈16 kg)** et pliage rapide. Idéal trajets de 15-20 km sans recharge. ([Joyor Electric Scooter](https://joyorscooter.com/collections/f-series/products/electric-scooter-joyor-f5s?srsltid=AfmBOoqiVyIqLA192ZeeJ1UAq7wGJEfwapJ6ER_E9JXMAKwic1uSDmuC&utm_source=chatgpt.com))
+
+#### Bons compromis autour de 350 €
+
+- **Xiaomi Scooter 4** (non Lite) : 35 km officiels, appli Mi Home solide, SAV très présent. ([Xiaomi UK](https://www.mi.com/global/product/xiaomi-electric-scooter-4/?utm_source=chatgpt.com))
+- **iScooter i9 Max** : 500 W + pneus 10", vraie portée de 30-32 km en continu. ([iScooter](https://www.iscooterglobal.com/products/iscooter®-2022-outstanding-i9max-electric-scooter-for-adults-500w-21-7miles-with-front-and-rear-double-shock-absorption?utm_source=chatgpt.com))
+
+#### Modèles confort
+
+Le **iScooter W8** ajoute suspension avant/arrière et pneus « tout-chemin » ; agréable pour trajets mixtes pavés/piste cyclable. ([iScooter](https://www.iscooterglobal.com/products/iscooter-w8-off-road-tires-electric-scoote?utm_source=chatgpt.com))
+
+#### Options « petit budget »
+
+- **AOVO Pro M365 Pro** : clone du Xiaomi M365 avec batterie 10,5 Ah étanche IP54. ([Aovopro](https://www.aovopro.com/?srsltid=AfmBOooW7SUvxq9AOlpoA6pagMYbTbG3OicwAt_PgFaFqKPFDRbDXctD&utm_source=chatgpt.com))
+- **KuKirin S1 Pro** : châssis compact 17 kg, 30 km max, pratique comme deuxième véhicule. ([geekbuying.com](https://www.geekbuying.com/item/Kukirin-S1-PRO-8-inch-350W-Motor-Folding-Electric-Scooter-Black-471646.html?utm_source=chatgpt.com))
+
+------
+
+### Conseils d’achat rapide
+
+1. **Toujours vérifier la capacité réelle** : à prix égal, privilégiez la batterie (Wh) plutôt que la puissance moteur si votre priorité est l’autonomie.
+2. **Poids vs. portée** : au-delà de 13 Ah, la trottinette passe souvent 18 kg ; regardez si vous devez la porter.
+3. **Occasion/Reconditionné** : un Xiaomi Pro 2 d’occasion (45 km nominaux) se négocie parfois ~370 € ; exigez un test batterie (cycles < 200 idéal).
+4. **Charge lente = longévité** : évitez la décharge profonde (< 20 %) et ne stockez pas à 100 % prolongé.
+
+------
+
+### Verdict
+
+- **Besoin de 45-50 km certifiés** sans dépasser 390 € ? → **Joyor F5S+**.
+- **15-30 km quotidiens avec fiabilité d’une grande marque** ? → **Xiaomi Scooter 4** ou **Mi Scooter 3**.
+- **Polyvalence pneus + suspensions** ? → **iScooter W8**.
+- **Budget serré** ? → **AOVO Pro M365 Pro** reste un excellent ticket d’entrée.
+
+N’hésitez pas si vous souhaitez un comparatif plus poussé (temps de charge, couple moteur, appli mobile) ou des liens vers des offres d’occasion fiables !
+
+
+
+
+
+
+
+```
 et d trottinettes entre 250 et 400€ ?
 ```
 
@@ -7,6 +140,24 @@ et d trottinettes entre 250 et 400€ ?
 #### ≈48 km portée
 
 *349.0 €*
+
+Voici le classement — à vitesse constante de **25 km/h** — des trottinettes que l’on peut trouver neuves à moins de 390 €, triées de la plus grande portée annoncée à la plus courte :
+
+- **Joyor F5S+** : ~50 km constructeur ⇒ ≈ **40 km réels** à 25 km/h.
+- **iScooter i9 Max** : 40 km constructeur ⇒ ≈ 32 km réels.
+- **iScooter W8** : 35-40 km constructeur ⇒ ≈ 30-32 km réels.
+- **Xiaomi Electric Scooter 4** : 35 km constructeur ⇒ ≈ 28 km réels.
+- **AOVO Pro M365 Pro** : 30-35 km constructeur ⇒ ≈ 24-28 km réels.
+- **KuKirin S1 Pro** : 30 km constructeur ⇒ ≈ 24 km réels.
+- **Xiaomi Mi Scooter 3** : 30 km constructeur ⇒ ≈ 24 km réels.
+- **Ninebot KickScooter D28E** : 28 km constructeur ⇒ ≈ 22 km réels.
+
+> **Comment lire ces chiffres ?**
+>  Pour estimer la distance vraiment parcourue, on applique en général un abattement d’environ 20 % aux valeurs annoncées : poids du pilote, température, relief et pression des pneus influencent beaucoup l’autonomie effective.
+
+Tu peux donc compter sur les deux premiers modèles pour atteindre (ou dépasser) la barre des 30 km en conditions réelles, tout en restant sous le plafond de 390 €.
+
+
 
 ### [Xiaomi Scooter 3 Lite](https://chatgpt.com/c/6872ce3c-f6b8-800d-b7a4-d468259a863d)
 
@@ -192,3 +343,71 @@ Tu peux trouver ces trottinettes neuves sur :
 - LeBonCoin (si tu vérifies l’état de la batterie avant)
 
 Souhaites-tu que je t’envoie une **alerte de prix automatique** ou une **fiche PDF comparant les modèles** ?
+
+```
+Donne moi les meilleurs trotinette électrique avec la plus longue endurance au niveau de la batterie avec lequel 
+
+On peut parcourir le plus de distance à 25 km/h par heure voir plus jusqu'à 50 km voir plus et le escooter pas plus de 330€
+```
+
+Voici une option intéressante qui correspond à votre budget de 330 € et offre une bonne autonomie :
+
+**[Xiaomi Scooter 4 Lite](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)**
+
+- Prix : ~280 € (Cdiscount)
+- Vitesse max : 25 km/h (conforme réglementation)
+- Autonomie annoncée : ~30 km (mode éco) ([Reddit](https://www.reddit.com/r/ElectricScooters/comments/1e162qq/whats_the_best_electric_scooter_for_a_2030_min/?utm_source=chatgpt.com), [Wikipédia](https://fr.wikipedia.org/wiki/Xiaomi_M365?utm_source=chatgpt.com))
+- Poids léger et design compact, idéal pour la ville.
+
+------
+
+### 🔋 Autonomie et vitesse max
+
+- Vous souhaitiez parcourir ~50 km à 25 km/h ou plus, mais pour un budget ≤ 330 €, les modèles offrant réellement plus de 40–45 km d’autonomie atteignent habituellement 400–700 €.
+- Par exemple, la **Xiaomi Pro/Pro 2** offre environ 45 km d’autonomie mais coûte généralement 350–400 €, au-dessus de votre budget ([Wikipédia](https://fr.wikipedia.org/wiki/Xiaomi_M365?utm_source=chatgpt.com)).
+
+------
+
+### 🎯 Alternatives réalistes
+
+| Option                      | Autonomie réelle | Vitesse | Prix approximatif |
+| --------------------------- | ---------------- | ------- | ----------------- |
+| Xiaomi 4 Lite (sélection)   | ~30 km           | 25 km/h | 280–330 €         |
+| Xiaomi Pro/Pro 2 (occasion) | ~45 km           | 25 km/h | ~350–400 €        |
+
+- **Occasions** : pour atteindre près de 50 km d’autonomie, envisagez un modèle d’occasion ou reconditionné (Xiaomi Pro ou équivalent), autour de 350 €.
+- Attention à l’état de la batterie si c’est d’occasion (durée de vie diminuée).
+
+------
+
+### ✅ Recommandation
+
+- Pour **un modèle neuf et fiable sous 330 €**, la **Xiaomi 4 Lite** est le meilleur compromis, avec :
+  - Vitesse réglementaire de 25 km/h
+  - Autonomie utile de 25–30 km
+  - Bonne qualité/prix et service après‑vente
+- Si vous trouvez **un Xiaomi Pro/Pro 2 à petit prix d’occasion**, ça peut s’approcher des 45 km d’autonomie, mais généralement pas 50 km pleins.
+
+------
+
+### 📝 À vérifier avant achat
+
+1. La garantie (notamment si acheté d’occasion).
+2. L’état de la batterie (cycles de charge).
+3. Législation locale (25 km/h max, assurance).
+
+------
+
+### [Xiaomi Scooter 4 Lite](https://chatgpt.com/c/68763fc4-4be4-800d-882f-95349abf2805)
+
+#### Bon rapport qualité‑prix
+
+*279.99 €*
+
+------
+
+### 👍 Conclusion
+
+La **Xiaomi 4 Lite** est actuellement le meilleur e‑scooter neuf sous 330 € pour **25 km/h et ~30 km d’autonomie**. Si votre priorité absolue est une **autonomie de près de 50 km**, il faudra soit dépasser un peu votre budget (vers 350–400 €), soit explorer **le marché de l’occasion**.
+
+Souhaitez-vous que je vous aide à trouver des annonces d’occasion ou des modèles reconditionnés fiables ?
