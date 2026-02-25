@@ -1,5 +1,5 @@
 ```
-l 2 slectionné c comaptible ? m si 3000mAH l piles aaa et 1300mWh et 3600mWh/AAA le chargeur de pile aaa li-ion 1,5V? 
+l 2 slectionné c compatible ? m si 3000mAH l piles aaa et 1300mWh et 3600mWh/AAA le chargeur de pile aaa li-ion 1,5V? 
 ```
 
 ### TL;DR
