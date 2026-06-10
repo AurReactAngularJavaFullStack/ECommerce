@@ -34,7 +34,12 @@ Vitesse maximale sur voie privée : 35 km / h
 Moteur :500W
 Batterie: 42V 10Ah
 Pneus:10 » de plein
-Système de freinage : freins électroniques et à disque Modèle : i9Max Marque : ISCOOTER Moteur : 500W Taille du pneu : 10'' Autonomie: 30-40 km Batterie : 36V-42V 10AH Freins : électronique + freins à disque Poids net du produit : 16.3KG
+Système de freinage : freins électroniques et à disque Modèle : i9Max Marque : 
+ISCOOTER Moteur : 500W 
+Taille du pneu : 10'' 
+Autonomie: 30-40 km 
+Batterie : 36V-42V 10AH 
+Freins : électronique + freins à disque Poids net du produit : 16.3KG
 
 Tableau de caractéristiques du produit
 Caractéristique	Description

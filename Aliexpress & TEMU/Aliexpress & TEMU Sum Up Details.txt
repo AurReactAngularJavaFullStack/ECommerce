@@ -1,0 +1,285 @@
+KPI personnel
+Suis deux chiffres: économies réellement obtenues et achats inutiles évités. 
+Le deuxième est souvent plus rentable que le premier.
+
+L'Argument Clé
+Le statut Premium n'est pas juste un badge, c'est un levier financier. Un acheteur
+régulier économise 15-20% de plus par an grâce au cumul des avantages invisibles.
+
+Sur AliExpress, le programme s'appelle AliExpress Coins & Membership. Chaque achat vous rapporte des pièces (coins) que
+vous pouvez convertir en réductions directes au moment du paiement. Plus votre niveau est élevé, plus le ratio 
+coins/euros est favorable. 
+Sur Temu, le système repose davantage sur des crédits de fidélité, des roues de la fortune, des missions quotidiennes
+et des coupons push. Comprendre ces mécaniques est la première étape pour ne plus rien laisser sur la table.
+
+Astuce clé : 
+Connectez-vous chaque jour sur les deux applications, même sans acheter. 
+Chaque connexion quotidienne accumule des points, des crédits et débloque des missions bonus qui se transforment en 
+coupons concrets.
+
+Le Secret de l'onglet "Coins"
+Ne cherchez pas vos produitsdirectement via la barre derecherche standard. 
+Trouvez-les,mettez-les dans le panier, puis allezdans l'onglet "Coins" (Jetons) del'application mobile. 
+L'algorithme vous proposera vos articles dupanier avec une remise par jetonsboostée 
+(allant parfois jusqu'à 20%au lieu de 2%).
+
+2. Les extensions de suivi de prix sont-elles fiables ?
+Partiellement. Elles peinent souvent à intégrer les "prix Choice" ou les offres hyper-personnalisées de
+l'application mobile. 
+Elles servent d'indicateur de tendance, pas de vérité absolue.
+
+6. Le cashback externe bloque-t-il les coupons de la plateforme ?
+En théorie, les plateformes de cashback exigent qu'aucun code externe ne soit utilisé. 
+En pratique, surAliExpress, l'empilement fonctionne très souvent (le cashback s'appliquant sur le montant final payé).
+
+9. Les "Mystery Boxes" ou Pochettes surprises sont-elles rentables ?
+Mathématiquement, non. Elles servent à écouler les invendus d'entrepôt. 
+Ne jouez pas contre l'algorithme sur ce terrain.
+
+10. Mon taux d'avis affecte-t-il mon profil Premium ?
+Laisser des avis pertinents (avec photos) augmente vos "points" sur AliExpress et indique à laplateforme que vous êtes 
+un utilisateur légitime, ce qui aide grandement en cas de litige futur
+
+Aujourd'hui / 7 Jours
+Nettoyez vos paniers et wishlists.Supprimez ce que vous ne voulezplus, consolidez ce que vous visez.
+
+À 30 Jours
+Testez le processus complet sur unévénement intermédiaire (ex: ChoiceDay le 1er du mois). 
+Exercez-vous àpasser par la section "Coins" et àappliquer un code de palier. 
+Sur Temu, faites un check systématiquedes ajustements de prixhebdomadairement.
+
+À 90 Jours
+Préparation pour un méga-événement (11.11 en novembre ouAnniversaire en mars). 
+Votre compte doit avoir accumulé le maximum dejetons, et vos paniers doivent êtrepré-remplis en attente de la 
+phase de préchauffe.
+
+2. Le Retour Systématique
+Abuser de la politique de retourgratuit. 
+Même si c'est "offert", untaux de retour supérieur à la normede votre cohorte vous déclassera.
+Gardez vos cartouches de litige pourles vrais problèmes structuraux.
+
+Même un acheteur avec 100+ commandes peut se faire piéger par un "Store" éphémère.Méfiez-vous si :
+Le magasin a un nom alphanumérique générique (ex:
+Shop91038472 Store ) et estouvert depuis moins de 6 mois.
+Un produit compte 5000 ventes, mais seulement 3 avis écrits.
+Les avis photo montrent des arrière-plans occidentaux parfaitement éclairés pour unproduit obscur (photos volées).
+Les frais de livraison compensent exactement la réduction (Le produit passe de 20€ à1€, mais les frais de port 
+passent de gratuit à 19€).
+
+Le Coût Final Réel =
+[(Prix Campagne - Remise Palier - Coupon Vendeur - CodeGlobal - Coins) + TVA + Port] - Cashback Externe.
+
+Conclusion
+Le meilleur acheteur premium n'est pas celui qui chasse tous les coupons. 
+C'est celui qui sait attendre, comparer, vérifier, empiler les bons leviers et refuser les fausses urgences. 
+La discipline bat l'algorithme - ou au minimum, elle lui coûte plus cher.
+
+Fuyez les marques "homophones" :
+Si le design copie une grande marque mais quele nom a une lettre de différence, 
+la qualité interne est souvent désastreuse.
+
+Vérifiez les certifications :
+Pour l'électronique (chargeurs), cherchez les mentionsréelles CE/RoHS et privilégiez 
+les marques chinoises établies (Baseus, Ugreen, Anker,Essager) aux produits non brandés.
+
+L'illusion des specs :
+Un SSD de 16 To à 15€ n'existe pas (il s'agit de clés USBreprogrammées pour tromper l'OS). 
+Confrontez toujours le prix à la réalitétechnologique du marché.
+
+Checklist anti-fausse-promo
+Le prix barré n'est pas pris comme référence fiable.
+Le prix final est comparé à un historique.
+Le produit n'est pas moins cher chez un autre vendeur.
+Le coupon ne force pas l'ajout d'articles inutiles.
+La promo n'est pas seulement un compte à rebours marketing.
+Le retour ou la garantie est acceptable pour le niveau de risque.
+
+9. Produits à privilégier et catégories à éviter
+Catégories souvent intéressantes
+Accessoires téléphone Concurrence massive, prix faciles à comparer Compatibilité exacte du modèle
+Accessoires PC        Beaucoup de vendeurs, specs vérifiables      Version, connectique, avis photo
+Organisation maison   Marge flexible, faible risque technique      Dimensions réelles
+Eclairage LED simple  Prix variable et comparaison facile          Voltage, certification, photos
+Outils légers         Bon rapport prix/utilité                     Avis négatifs récents
+Petits gadgets auto   Forte concurrence                            Compatibilité véhicule
+
+Catégories à traiter avec prudence
+Batteries / chargeurs puissants Sécurité, normes, surchauffe     Préférer marques vérifiables et certifications
+Stockage                        USB / SSD Faux volumes fréquents Tester capacité réelle dès réception
+Cosmétiques                     Composition, conformité UE,      Eviter si origine ou ingrédients flous
+Produits bébé                   Sécurité et conformité           Eviter les produits critiques non certifiés
+Produits de marque très remisés Contrefaçon possible             Acheter via canaux officiels si marque connue
+Electronique chère              Garantie, SAV, compatibilité     Comparer avec vendeur local
+____________________________________________________________________________________________
+Aliexpress:
+AliExpress est souvent plus fort sur la comparaison vendeur, les coupons vendeur, 
+les coins et les grosses campagnes mondiales comme Choice Day ou 11.11.
+
+analytics Analyse Coût vs Bénéfice
+L'abonnement Saver (environ $2-4/mois ou essai gratuit) n'est rentable que si vos achats mensuels dépassent 
+un certain seuil.
+5-15% de Réduction Auto
+Appliqué automatiquement sur les articles "Saver" (VIP Price). 
+Vérifiez le badge avant d'acheter.
+
+Coupons Exclusifs
+4x "$3 off $30" + 1x "$10 off $50". Ils se renouvellent et se cumulent avec les coupons vendeur.
+
+Livraison Premium
+Accès prioritaire aux méthodes d'expédition rapides (7-15 jours) sans frais supplémentaires sur certains articles.
+
+
+Qualification Vendeur et Produit (J-10)
+Analysez l'historique des prix via des extensions tierces (ex: AliPrice) si disponible. 
+Lisez les avis avec photos triés par "Récents" (et non par "Pertinence") pour contourner lesfaux avis. 
+Vérifiez le pourcentage d'avis positifs de la boutique (idéalement > 95% avecplusieurs années d'ancienneté).
+
+Checklist AliExpress avant paiement
+Seller coupon collecté.
+AliExpress coupon vérifié.
+Promo code testé au checkout.
+Coins testés uniquement si prix final meilleur.
+Même produit recherché par image.
+Historique de prix vérifié avec un tracker.
+Vendeur, avis récents et livraison validés.
+
+7. Calendrier d'achat et préparation des soldes
+AliExpress Choice Day revient souvent comme fenêtre promotionnelle Préparer wishlist avant le 1er
+Mars AliExpress Anniversary Sale historiquement importante Repérer gros achats
+Juin AliExpress Ventes d'été / 618 selon régions Comparer électronique
+11 novembre AliExpress 11.11 Global Shopping Festival Priorité aux gros paniers
+
+AliExpress
+Choice Day / 11.11 / Black Friday
+Fenêtres de prix bas + codes + coupons
+Très haute
+
+Attention aux codes AliExpress
+Les codes sont souvent limités par pays, devise, montant minimum, catégorie, stock d'utilisation ou période. 
+Un code valide pour un acheteur américain peut échouer pour un acheteur français.
+
+Exploiter les coins:
+Chercher le produit depuis la section Coins, pas seulement depuis la recherche normale.
+Comparer le prix final coins inclus avec le prix normal du même produit chez d'autres vendeurs.
+Ne pas accumuler des coins pour des produits inutiles: les coins sont utiles seulement s'ils diminuent 
+une dépense prévue.
+
+4.1. Préparation avant événement
+12.Repérer les produits 7 à 10 jours avant Choice Day, 11.11, Black Friday 
+ou une grande vente saisonnière.
+13. Ajouter en wishlist au moins 5 vendeurs pour le même produit.
+14. Collecter les coupons vendeurs depuis la page produit et la boutique.
+15. Vérifier le Coupon Center et les codes promo disponibles dans l'application.
+16. Comparer le panier sur desktop et sur mobile: certains deals apparaissent différemment.
+17. Noter le prix normal et le prix cible avant l'ouverture de la vente.
+
+4.2. Utiliser les coupons dans le bon ordre
+
+Type de reduction     Où la chercher              Piège courant              Bon réflexe
+Seller coupon Page produit / boutique vendeur Oubli de cliquer sur Collect  Collecter avant ajout au panier
+AliExpress coupon  Coupon Center / campagne   Seuil minimum non atteint     Construire un panier utile, pas artificiel
+Promo code         Checkout / pages campagne  Code régional ou expiré       Tester plusieurs codes juste avant paiement
+Coins              Section Coins dans l'app   Prix gonflé malgré coins      Comparer prix avec et sans coins
+SuperDeals / Choice Onglets dédiés            M produit - cher hors section Recherche par image et comparaison vendeur
+____________________________________________________________________________________________
+Temu:
+Activer les notifications push, emails promotionnels et alertes de prix dans l'application.
+Consulter régulièrement la zone coupons/offres du compte.
+
+Price adjustment
+Si un produit acheté voit son prix baisser dans les 30 jours, vous pouvez réclamer la différence 
+— souvent payée en crédits.
+
+Astuce Pro
+Temu Circle Day: Le 15 de chaque mois, des coupons surprise apparaissent. Connectezvous
+ce jour-là pour récupérer des offres "Zéro Euro" (frais de port seulement).
+
+Crédits & Cashback
+Gagnez des crédits Temu réutilisables. 2-15% de
+cashback sur commandes.
+
+1 Vérifier l'Éligibilité
+Onglet "You" > "Temu Circle". 
+Si invité, acceptez immédiatement. 
+C'est souvent gratuit pour les acheteurs réguliers.
+
+4 Crédits vs Coupons
+Les Crédits agissent comme de l'argent.
+Les Coupons réduisent le prix. 
+Cumulez les:
+Appliquez le coupon PUIS payez avec les crédits.
+
+Ignorer la pressionpsychologique
+Temu excelle dans l'interfaceanxiogène (roulettes, comptes àrebours, "Plus que 2 en stock").
+Ignorez tout.
+Ce sont des scriptsfront-end. 
+Concentrez-vous sur larecherche par image pour trouver l'usine source 
+et le prix le plus baspour une commodité identique.
+
+L'Ajustement de Prix (PriceAdjustment)
+C'est l'arme absolue sur Temu.  
+Dans les 30 jours suivant votre achat, si leprix catalogue baisse (ce qui arriveconstamment à cause des enchères
+d'algorithme), un simple clic dansvos commandes ("Demander unajustement") vous crédite la différence instantanément 
+sur votresolde Temu.
+
+Post-Achat et Rétention (J+15)
+À réception, filmez l'ouverture du colis (preuve irréfutable en cas de litige). 
+Si tout estconforme, validez la réception pour débloquer les fonds au vendeur (améliore votrescore de confiance). 
+Sur Temu, vérifiez la fonction "Ajustement de prix": 
+si le prix abaissé depuis votre achat, réclamez la différence en crédit instantanément.
+
+CouponsVendeurs vs Plateforme:
+Forte présence de couponsde boutiques spécifiques +codes globaux.
+Centralisé. Les coupons sont presqueexclusivement gérés par Temu(coupons de panier).
+
+Checklist Temu avant paiement:
+Le prix a été comparé avec au moins 2 alternatives.
+Le coupon est appliqué et visible dans le total final.
+Les Temu Credits disponibles sont pris en compte.
+Le délai de livraison est acceptable.
+Les avis récents ne signalent pas un défaut récurrent.
+Un rappel price adjustment est prévu après achat.
+
+7. Calendrier d'achat et préparation des soldes
+Fin novembre Temu + AliExpress Black Friday / Cyber Monday Tester plusieurs paniers
+Décembre     Temu + AliExpress Noël + bundles + déstockage Acheter tôt pour délais livraison
+Janvier      Temu + AliExpress Déstockage post-fêtes       Produits maison/accessoires
+
+Routine Temu rentable
+Après chaque commande Temu, mets un rappel à J+3, J+7 et J+14 pour vérifier le price 
+adjustment. 
+C'est moins sexy qu'une astuce TikTok, mais c'est beaucoup plus fiable.
+
+3.2. Repérer sans acheter immédiatement
+1.Chercher 10 à 30 alternatives du même produit.
+2.Ajouter les meilleurs produits à la wishlist.
+3.Mettre 3 à 5 favoris dans le panier, sans payer tout de suite.
+4.Attendre 24 à 72 heures quand l'achat n'est pas urgent.
+5.Surveiller les notifications: baisse de prix, coupon ciblé, bundle, offre limitée.
+
+Prix comparé Même produit moins cher ailleurs? Oui = basculer vers l'autre vendeur.
+
+Jour 1
+Vérifier toutes les commandes récentes
+Capturer une première baisse éventuelle
+
+Jour 3
+Re-vérifier
+Profiter des prix flash post-achat
+
+Jour 7
+Re-vérifier
+Récupérer les ajustements retardés
+
+Jour 14
+Re-vérifier
+Dernier contrôle intermédiaire
+
+Fin de période
+Dernier passage manuel
+Ne pas laisser de credit potentiel sur la table
+
+
+
+
+
