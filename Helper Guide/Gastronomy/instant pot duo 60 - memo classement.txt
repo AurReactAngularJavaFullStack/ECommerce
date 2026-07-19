@@ -1,0 +1,408 @@
++----------------------------------------------------------------------------+
+|                                                                            |
+|   INSTANT POT DUO 60  -  MOBILE APPS  -  42 RECETTES CLASSEES              |
+|                                                                            |
+|   Memo de synthese  -  profil : sale / fast-food, courses Ile-de-France,   |
+|   cuve 5,7 L, cuisine pour une personne.                                   |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+==============================================================================
+  1.  LE VERDICT EN TROIS PHRASES
+==============================================================================
+
+  Vous possedez un excellent appareil a braiser deguise en appareil a tout
+  faire. Les onze recettes du tier S ont un point commun : elles transforment
+  une piece de viande dure et bon marche en quelque chose de fondant, gras et
+  sale, en moins d'une heure.
+
+  Les vingt-et-une dernieres, soit exactement la moitie du stock, n'ont aucune
+  raison technique de passer par cet appareil : une casserole, une poele ou un
+  four font aussi bien ou mieux, souvent plus vite.
+
+  Le classement ne juge pas les recettes en elles-memes. Il juge l'adequation
+  entre une recette, un autocuiseur de 5,7 L, une cuisine parisienne et un
+  gout pour le sale dense.
+
+==============================================================================
+  2.  POURQUOI CE PROFIL DE GOUT COLLE A CET APPAREIL
+==============================================================================
+
+  LE GAIN REEL : 118 C AU LIEU DE 98 C
+  ------------------------------------
+  Sous pression la cuve monte a environ 118 C. Ces vingt degres font que la
+  conversion du collagene en gelatine, qui demande 3 a 4 heures en braisage
+  classique, se fait en 45 minutes. Et comme le recipient est clos, rien ne
+  s'evapore : la sauce reste concentree et les graisses fondues restent dans
+  le plat.
+
+  CONSEQUENCE ECONOMIQUE
+  ----------------------
+  Paleron, joue de boeuf, macreuse, echine, travers : les morceaux les moins
+  chers du rayon sont precisement ceux qui contiennent le plus de collagene,
+  donc ceux que cet appareil sublime. Vous avez la machine qui rend delicieux
+  ce que tout le monde evite.
+
+  LE MUR DU CROUSTILLANT
+  ----------------------
+  Un autocuiseur cuit dans un milieu sature de vapeur. La reaction de Maillard
+  exige une surface seche au-dessus de 140 C. Les deux conditions sont
+  physiquement incompatibles. Aucun reglage ne contourne cela.
+
+  REGLE QUI EN DECOULE
+  --------------------
+  Toute recette de ce classement qui pretend au statut de fast-food doit se
+  terminer ailleurs que dans la cuve : sous le gril a 220 C pendant 8 minutes,
+  en friture, ou a la poele tres chaude. C'est l'etape que la moitie des
+  recettes americaines omettent, et c'est pour cela que tant de gens trouvent
+  le resultat fade.
+
+==============================================================================
+  3.  LE CLASSEMENT COMPLET  (du meilleur au moins bien)
+==============================================================================
+
+  N   T   RECETTE                          TEMPS         PORT.
+  --------------------------------------------------------------------------
+  01  S   Beef Birria                      45 min        6
+  02  S   Baby Back Ribs                   25 min +gril  4
+  03  S   Country Ribs                     35 min        4
+  04  S   Wine-Braised Pulled Beef         45 min        4
+  05  S   Tuscan Chicken Pasta             11 min        6
+  06  S   Best-Ever Italian Meatballs      25 min        6
+  07  S   Meatball Sliders                 30 min        6
+  08  S   Chili Garlic Noodles             15 min        2
+  09  S   Beef Ragu                        1 h 10        8
+  10  S   Macaroni and Cheese              12 min        6
+  11  S   Cilantro Lemon Wings             5 min +four   4
+  --------------------------------------------------------------------------
+  12  A   French Onion Chicken             40 min        4
+  13  A   Pork Chile Verde                 1 h 40        6
+  14  A   One-Pot Pasta Bolognese          20 min        4
+  15  A   Pot Roast                        1 h           6
+  16  A   Beef Stew Mushrooms/Barley       35 min        6
+  17  A   Creamy Queso                     13 min        12
+  18  A   Biryani d'agneau                 1 h 15        4
+  19  A   Chicken Pesto Fettuccine         15 min        4
+  20  A   Curry poulet & lentilles         30 min        4
+  21  A   Mashed Potato Bites              30 min        20 p.
+  --------------------------------------------------------------------------
+  22  B   Beef Stew Root Vegetables        1 h 45        6
+  23  B   Ragout d'agneau Moyen-Orient     1 h 15        4
+  24  B   Jhinga Nariyalwala (crevettes)   20 min        4
+  25  B   Pozole                           1 h 10        6
+  26  B   One-Pot Chicken Pad Thai         20 min        4
+  27  B   One-Pot Bibimbap                 25 min        4
+  28  B   Tikka-Spiced Chicken Kebabs      20 min        4
+  29  B   Quick Chicken and Bean Stew      25 min        4
+  30  B   Chinese Takeout-Style Tofu       20 min        4
+  31  B   Mushroom & Spinach Risotto       20 min        4
+  --------------------------------------------------------------------------
+  32  C   Beef Bone Broth                  2 h           2 L
+  33  C   The Perfect Hard Boiled Eggs     5 min         12
+  34  C   Tomato Eggs                      10 min        2
+  35  C   Riz pilaf du Proche-Orient       15 min        6
+  36  C   Perfectly Simple White Rice      12 min        4
+  37  C   Homestyle Buttery Mashed Pot.    15 min        6
+  --------------------------------------------------------------------------
+  38  D   Chou au beurre                   9 min         8
+  39  D   Easy Chicken and Rice            25 min        4
+  40  D   Dump & Done Wild Rice Soup       30 min        6
+  41  D   Tomato/Grape Baked Cheese        20 min        4
+  42  D   Beets with Goat Cheese           20 min        4
+  --------------------------------------------------------------------------
+
+==============================================================================
+  4.  LE DETAIL, TIER PAR TIER
+==============================================================================
+
+
+  ##########################################################################
+  #  TIER S  -  LE NOYAU DE LA ROTATION
+  #  Braisages compresses en 45 min. Gras, sales, faciles a trouver.
+  ##########################################################################
+
+  [01]  Beef Birria
+        45 min . 6 portions
+        Le meilleur du lot. Joue/paleron + chiles. Tacos trempes.
+
+  [02]  Baby Back Ribs
+        25 min +gril . 4 portions
+        Travers de porc. Membrane a retirer. Gril obligatoire.
+
+  [03]  Country Ribs
+        35 min . 4 portions
+        Echine 6 EUR/kg. Meilleur rapport plaisir/euro.
+
+  [04]  Wine-Braised Pulled Beef
+        45 min . 4 portions
+        Zero achat prealable. Evaporer l'alcool avant pression.
+
+  [05]  Tuscan Chicken Pasta
+        11 min . 6 portions
+        600 kcal/11 min. Record de densite. Creme apres pression.
+
+  [06]  Best-Ever Italian Meatballs
+        25 min . 6 portions
+        Base polyvalente. Boulettes au four avant, pas en Saute.
+
+  [07]  Meatball Sliders
+        30 min . 6 portions
+        Meme base, format burger. Pain grille au beurre.
+
+  [08]  Chili Garlic Noodles
+        15 min . 2 portions
+        Profil ramen. Nouilles a part, cuve en mode Saute seul.
+
+  [09]  Beef Ragu
+        1 h 10 . 8 portions
+        Batch cooking roi. 8 portions = 4 diners couverts.
+
+  [10]  Macaroni and Cheese
+        12 min . 6 portions
+        Bat la casserole. Cheddar affine obligatoire.
+
+  [11]  Cilantro Lemon Wings
+        5 min +four . 4 portions
+        Ailes a 4 EUR/kg. Secher au papier avant le four.
+
+
+  ##########################################################################
+  #  TIER A  -  SOLIDES, A REPETER
+  #  Ca marche vraiment. Parfois une substitution pour le marche francais.
+  ##########################################################################
+
+  [12]  French Onion Chicken
+        40 min . 4 portions
+        100% francais. Cuisses, pas de blancs. Oignons 20 min.
+
+  [13]  Pork Chile Verde
+        1 h 40 . 6 portions
+        5 etoiles. Tomatillos rares : tomates vertes + citron vert.
+
+  [14]  One-Pot Pasta Bolognese
+        20 min . 4 portions
+        Hache 15% MG. Pates courtes uniquement.
+
+  [15]  Pot Roast
+        1 h . 6 portions
+        Remplacer la Campbell's par roux + fond de veau.
+
+  [16]  Beef Stew Mushrooms/Barley
+        35 min . 6 portions
+        Orge perle a 2 EUR/kg, epaissit tout seul. 2/3 de cuve max.
+
+  [17]  Creamy Queso
+        13 min . 12 portions
+        Pas de Velveeta ici. Citrate de sodium ou lait evapore.
+
+  [18]  Biryani d'agneau
+        1 h 15 . 4 portions
+        Agneau cher en IDF. Surgele, hallal, ou version poulet.
+
+  [19]  Chicken Pesto Fettuccine
+        15 min . 4 portions
+        Correct. Pesto et creme apres decompression.
+
+  [20]  Curry poulet & lentilles
+        30 min . 4 portions
+        Meilleur rapport cout/nutrition. Griller les epices.
+
+  [21]  Mashed Potato Bites
+        30 min . 20 p. portions
+        Tres fast-food, mais c'est la friture qui fait le travail.
+
+
+  ##########################################################################
+  #  TIER B  -  CORRECTS, MAIS L'APPAREIL N'APPORTE RIEN
+  #  La pression degrade le plat ou n'apporte rien. Poele, four ou wok.
+  ##########################################################################
+
+  [22]  Beef Stew Root Vegetables
+        1 h 45 . 6 portions
+        Doublon du n 16, trois fois plus long. En garder un seul.
+
+  [23]  Ragout d'agneau Moyen-Orient
+        1 h 15 . 4 portions
+        Une cocotte fait pareil. Pois chiches secs = seul interet.
+
+  [24]  Jhinga Nariyalwala (crevettes)
+        20 min . 4 portions
+        Crevettes caoutchouteuses. Sauce sous pression, puis 3 min.
+
+  [25]  Pozole
+        1 h 10 . 6 portions
+        720 kcal mais hominy introuvable hors epicerie mexicaine.
+
+  [26]  One-Pot Chicken Pad Thai
+        20 min . 4 portions
+        Nouilles de riz en bouillie. A faire au wok.
+
+  [27]  One-Pot Bibimbap
+        25 min . 4 portions
+        Perte du nurungji, donc du plat. Finir en poele fonte.
+
+  [28]  Tikka-Spiced Chicken Kebabs
+        20 min . 4 portions
+        Brochette a la vapeur = contresens. Four position gril.
+
+  [29]  Quick Chicken and Bean Stew
+        25 min . 4 portions
+        Sans caractere. Haricots secs 35 min = seul argument.
+
+  [30]  Chinese Takeout-Style Tofu
+        20 min . 4 portions
+        Bon mais trop leger pour le profil recherche.
+
+  [31]  Mushroom & Spinach Risotto
+        20 min . 4 portions
+        L'appareil marche bien, mais ce n'est pas du fast-food.
+
+
+  ##########################################################################
+  #  TIER C  -  FONCTIONS UTILITAIRES
+  #  Des procedes plutot que des recettes. Deux sont a connaitre par coeur.
+  ##########################################################################
+
+  [32]  Beef Bone Broth
+        2 h . 2 L portions
+        2 h au lieu de 12. Base de ramen. Rotir les os avant.
+
+  [33]  The Perfect Hard Boiled Eggs
+        5 min . 12 portions
+        Regle 5-5-5. Ecalage parfait. Fonction la plus utile.
+
+  [34]  Tomato Eggs
+        10 min . 2 portions
+        Shakshuka. Une poele fait strictement mieux.
+
+  [35]  Riz pilaf du Proche-Orient
+        15 min . 6 portions
+        Bon accompagnement des braises du tier S.
+
+  [36]  Perfectly Simple White Rice
+        12 min . 4 portions
+        Ratio 1:1. Relachement naturel obligatoire.
+
+  [37]  Homestyle Buttery Mashed Pot.
+        15 min . 6 portions
+        Vapeur > eau. Presse-puree, jamais de mixeur.
+
+
+  ##########################################################################
+  #  TIER D  -  A RETIRER DE VOS FAVORIS
+  #  Ne survivent pas a la frontiere, ou battues par une casserole.
+  ##########################################################################
+
+  [38]  Chou au beurre
+        9 min . 8 portions
+        35 kcal pour 9 min. Dernier du classement.
+
+  [39]  Easy Chicken and Rice
+        25 min . 4 portions
+        Repose sur une soupe Campbell's inexistante en France.
+
+  [40]  Dump & Done Wild Rice Soup
+        30 min . 6 portions
+        Riz sauvage cher et rare. Prendre l'orge du n 16.
+
+  [41]  Tomato/Grape Baked Cheese
+        20 min . 4 portions
+        Un camembert au four fait mieux en 15 min.
+
+  [42]  Beets with Goat Cheese
+        20 min . 4 portions
+        Betteraves deja cuites sous vide a 2 EUR chez Lidl.
+
+==============================================================================
+  5.  LES SIX REGLES DU DUO 60
+==============================================================================
+
+  1) 2/3 DE CUVE MAXIMUM
+     Pour pates, riz, legumineuses et tout ce qui contient de l'amidon. La
+     mousse peut remonter dans la valve et l'obstruer. Pour le reste, la ligne
+     MAX est la limite.
+
+  2) 250 ML DE LIQUIDE MINIMUM
+     L'appareil a besoin de produire de la vapeur pour monter en pression. En
+     dessous, il affiche une erreur ou brule le fond.
+
+  3) GRATTER LE FOND AVANT DE FERMER
+     Tout residu attache apres la saisie declenche l'erreur BURN et interrompt
+     la cuisson. Deglacer et racler a la spatule en bois.
+
+  4) RELACHEMENT NATUREL POUR LES VIANDES, RAPIDE POUR LES FECULENTS
+     Une decompression brutale retracte les fibres et asseche la viande. A
+     l'inverse, riz et pates continuent de cuire pendant le relachement
+     naturel et deviennent pateux.
+
+  5) CREME, FROMAGE ET PESTO TOUJOURS APRES LA PRESSION
+     Les matieres grasses laitieres tranchent au-dela de 85 C. La cuve garde
+     assez de chaleur pour les incorporer couvercle ouvert.
+
+  6) COMPTER LE TEMPS REEL, PAS LE TEMPS AFFICHE
+     Une recette a 25 min demande environ 10 min de montee en pression et 10 a
+     15 min de relachement. Le temps reel est presque toujours le double de
+     l'affichage.
+
+==============================================================================
+  6.  LA LISTE DE COURSES QUI DEBLOQUE LE TIER S
+==============================================================================
+
+  [ ]  Chiles guajillo + ancho seches
+       8-12 EUR . epicerie mexicaine / en ligne
+       Se conservent un an. Debloquent les n 01, 13 et 25.
+
+  [ ]  Cheddar affine anglais/irlandais
+       ~12 EUR/kg . Carrefour, Monoprix, Lidl
+       Non substituable par de l'emmental pour le n 10.
+
+  [ ]  Huile de piment croquante
+       5-7 EUR . epicerie asiatique
+       Base du n 08, utilisable sur a peu pres tout.
+
+  [ ]  Chapelure panko
+       2-3 EUR . epicerie asiatique
+       Croute nettement superieure a la chapelure classique.
+
+  [ ]  Concentre de tomate en tube
+       < 1 EUR . partout
+       Apporte la profondeur qui manque aux sauces tomate rapides.
+
+  [ ]  Citrate de sodium (optionnel)
+       ~8 EUR . en ligne
+       3% du poids du fromage : sauce parfaitement lisse et stable (n 17).
+
+==============================================================================
+  7.  ROTATION TYPE POUR UNE PERSONNE SEULE
+==============================================================================
+
+  DIMANCHE   Beef Birria (n 01)          45 min   ->  6 portions
+             Lun : tacos trempes
+             Mar : bol de nouilles avec le consomme
+             3 portions au congelateur
+
+  MERCREDI   Beef Ragu (n 09)            1 h 10   ->  8 portions
+             Jeu a Dim : pates, gratin, sandwich chaud
+             5 portions au congelateur
+
+  Deux allumages par semaine, cinq repas sans cuisson. C'est le vrai gain de
+  temps, bien plus que les minutes affichees sur les fiches. Portionnez chaud
+  dans des boites de 400 g, refroidissez, congelez.
+
+==============================================================================
+  8.  SI VOUS NE FAITES QU'UNE CHOSE
+==============================================================================
+
+  A CUISINER : le n 03, Country Ribs. Echine de porc a 6 EUR/kg, 35 minutes
+  sous pression, 8 minutes de gril. La demonstration la moins chere et la plus
+  convaincante de ce que cet appareil sait faire.
+
+  A ACHETER : deux sachets de chiles seches. Douze euros qui ouvrent le numero
+  un du classement.
+
+  A SUPPRIMER : les cinq recettes du tier D. Elles encombrent la liste et vous
+  font hesiter pour rien.
+
+==============================================================================
+  Fin du memo  -  version longue illustree : le PDF joint, 32 pages.
+==============================================================================
