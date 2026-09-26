@@ -1,0 +1,19 @@
+Guide visuel - Brancher 2 ecrans sur un mini-PC
+================================================
+Ordre de lecture = numero au debut de chaque fichier.
+
+01 a 03  Ton setup reel annote
+04 a 06  La regle : 2 cables video separes depuis le mini-PC
+07 a 11  Les 5 erreurs qui font que Windows ne detecte qu un ecran
+12 a 13  Brancher l ecran ASUS (HDMI)
+14 a 16  Brancher l ecran portable (USB-C ou HDMI + alim)
+17 a 18  Bon vs mauvais port USB-C du mini-PC
+19 a 22  Windows : Win+P, Etendre, Detecter, disposer
+23       Ecran noir = mauvaise source sur le moniteur
+24 a 26  Tests A/B/C un ecran puis les deux
+27       Checklist
+28       Photo a prendre (dos des 3 appareils) pour un diagnostic precis
+
+Idee principale :
+chaque ecran = un cable video qui part DU MINI-PC.
+Pas par l ASUS, pas par l Acer, pas en USB-A, pas avec un cable USB-C charge-only.
