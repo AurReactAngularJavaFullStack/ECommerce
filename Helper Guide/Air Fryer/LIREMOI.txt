@@ -1,0 +1,25 @@
+Helper Guide Air Fryer
+Destination Windows: D:\Users\aur95\Documents\ECommerce\Helper Guide\Air Fryer
+
+Arborescence
+- Cosori TwinFry\Modes equivalents FD10 Pro
+  Panier large horizontal, separateur gauche/droite ou Grand 9 qt.
+  Fiches pratiques, pas les presets usine Mova.
+- Cosori Turbo Tower\Modes equivalents FD10 Pro
+  Deux tiroirs verticaux: bas 6,5 L, haut 4,3 L.
+  Temperatures alignees sur le manuel FD10 Pro. Controler 2-3 min avant en bas.
+- Cosori Turbo Tower\Accessoires
+  Plaques et grille incluses. Kit tiers environ 33-41 EUR.
+  Bas env. 23,5 x 23,5 x 8 cm. Haut env. 22,5 x 22,5 x 5,5 cm.
+- Cosori TurboBlaze : un panier 6 qt, pas de double zone.
+- Cosori Dual Blaze : un tiroir 6,8 qt, deux resistances, pas deux paniers.
+
+Presets usine Mova FD10 Pro (manuel)
+Legumes 180C 10 min 250 g
+Pain 200C 5 min 1 tranche
+Frites 180C 18 min 300 g
+Pizza 180C 9 min 15 cm
+Defrost 60C 15 min
+Ailes 200C 15 min 400 g
+Steak 200C 13 min 150 g
+Crevettes 200C 13 min 300 g
