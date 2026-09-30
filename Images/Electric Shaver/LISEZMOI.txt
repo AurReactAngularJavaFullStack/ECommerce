@@ -1,0 +1,13 @@
+Electric Shaver — images générées
+Classement du meilleur au moins bien (rasage électrique, hors prix) :
+
+01_Braun_Series_9_Pro_Plus
+02_Panasonic_ES-LS9A_Arc6
+03_Philips_i9000_Prestige
+04_Braun_Series_8
+05_Braun_Series_7
+00_Comparatifs = visuels généraux (fiche top 5, géométries, Series 9)
+
+Extraire ce zip dans :
+D:\Users\aur95\Documents\ECommerce\Images\
+Le dossier "Electric Shaver" se créera au bon endroit.
