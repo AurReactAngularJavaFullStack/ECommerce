@@ -1,0 +1,8 @@
+Electrical Peeler — toutes les images générées (3 séries, 30 visuels)
+A extraire dans : D:\Users\aur95\Documents\ECommerce\Images\Electrical Peeler
+
+01_Manuels_rapport_qualite_prix
+02_Automatiques_broches_et_cuves
+03_Cuves_lot_plusieurs_pommes_de_terre
+
+Chaque classement a son dossier, l'image porte le numéro et le titre, plus un titre.txt.
